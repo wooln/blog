@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://me.ingrace.top/'
 languageCode = 'en-us'
 title = 'Yunjin Blog'
 theme = 'ananke'
